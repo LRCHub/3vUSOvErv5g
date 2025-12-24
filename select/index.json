@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Change My Mind",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:12:18.164265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Change My Mind",
+      "artist": "Starsailor",
+      "has_synced": true,
+      "path": "select/01_Change_My_Mind_Starsailor.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can I Change My Mind",
+      "artist": "JJAMZ",
+      "has_synced": true,
+      "path": "select/02_Can_I_Change_My_Mind_JJAMZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Change My Mind - Digitally Remastered 99",
+      "artist": "The Motels",
+      "has_synced": false,
+      "path": "select/03_Change_My_Mind_-_Digitally_Remastered_99_The_Motels.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Change My Mind (Remastered)",
+      "artist": "The Motels",
+      "has_synced": false,
+      "path": "select/04_Change_My_Mind_(Remastered)_The_Motels.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Change My Mind",
+      "artist": "Freak Power",
+      "has_synced": true,
+      "path": "select/05_Change_My_Mind_Freak_Power.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No One (Can Ever Change My Mind)",
+      "artist": "Stefanie Heinzmann",
+      "has_synced": true,
+      "path": "select/06_No_One_(Can_Ever_Change_My_Mind)_Stefanie_Heinzmann.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Change My Mind",
+      "artist": "Lucie Silvas",
+      "has_synced": true,
+      "path": "select/07_Change_My_Mind_Lucie_Silvas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Change My Mind",
+      "artist": "Pennywise",
+      "has_synced": true,
+      "path": "select/08_Change_My_Mind_Pennywise.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Change My Mind",
+      "artist": "Puddle of Mudd",
+      "has_synced": true,
+      "path": "select/09_Change_My_Mind_Puddle_of_Mudd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Change My Mind - Acoustic",
+      "artist": "Starsailor",
+      "has_synced": true,
+      "path": "select/10_Change_My_Mind_-_Acoustic_Starsailor.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nothing Will Change My Mind",
+      "artist": "Tex Crick",
+      "has_synced": true,
+      "path": "select/11_Nothing_Will_Change_My_Mind_Tex_Crick.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Change My Mind",
+      "artist": "Alina Baraz",
+      "has_synced": true,
+      "path": "select/12_Change_My_Mind_Alina_Baraz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Change My Mind",
+      "artist": "Peach Tree Rascals",
+      "has_synced": true,
+      "path": "select/13_Change_My_Mind_Peach_Tree_Rascals.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Change My Mind",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/14_Change_My_Mind_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heart Don't Change My Mind",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/15_Heart_Don't_Change_My_Mind_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Change My Mind",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/16_Change_My_Mind_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby Can I Change My Mind",
+      "artist": "Michael McDonald",
+      "has_synced": false,
+      "path": "select/17_Baby_Can_I_Change_My_Mind_Michael_McDonald.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Change My Mind",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Change_My_Mind_One_Direction.txt"
+    }
+  ]
+}
